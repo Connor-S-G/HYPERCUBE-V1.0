@@ -1,5 +1,7 @@
 # HYPERCUBE-V1.0
 This is a GUI created in Python for viewing a 3D visualisation of a 4D shape called a 'Hypercube' (a.k.a 'Tesseract'). It is also possible to switch between a cube and a hypercube to compare the two shapes.
+## Prerequisites
+Must have Python with Pygame + Pygame-gui installed.
 ## Main Menu
 The title screen that is displayed when launched.
 
