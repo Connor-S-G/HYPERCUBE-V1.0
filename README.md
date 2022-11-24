@@ -3,7 +3,7 @@ This is a GUI created in Python for viewing a 3D visualisation of a 4D shape cal
 ## Prerequisites
 Must have Python with Pygame + Pygame-gui installed.
 ## Main Menu
-The title screen that is displayed when launched.
+The title screen that is displayed when launched (showing the moving Hypercube).
 
 ![mainmenu](https://user-images.githubusercontent.com/56166849/203427075-146e8733-c979-4064-9df2-2fad71bebd18.png)
 
